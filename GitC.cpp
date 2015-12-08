@@ -8,5 +8,6 @@ int main(int argc, char *argv[])
 	printf("两次add，看log。\n更改，完成剩下的测试工作");
 	printf(" 测试清除 add 缓存\n");
 	printf("第一次远程提交\n");
+	printf("第一次分支\n");
 	return 0;
 }
